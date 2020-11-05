@@ -15,7 +15,7 @@ It is just a implementation of google sign in with flutter and firebase
 
 # SHA-1/SHA-256 Generate 
 
-keytool -list -v -keystore "C:\Users\Abhishek\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+keytool -list -v -keystore "C:\Users\Abhishek\ .android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
 
 
 # Note:-
