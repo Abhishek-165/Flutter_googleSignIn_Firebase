@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1089606133193",
+    "firebase_url": "https://signin-e163a.firebaseio.com",
+    "project_id": "signin-e163a",
+    "storage_bucket": "signin-e163a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089606133193:android:294ec23d24f50b0edb7418",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089606133193-aaevoguquhkdt1klnukga0aq6ojt621l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBepUIjh6Vr70sZs3qLTwzfzTAAYUgBdDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089606133193-aaevoguquhkdt1klnukga0aq6ojt621l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
